@@ -1,12 +1,2 @@
 
-#container{
-    width: 400px;
-    height: 300px;
-    background-color: bisque;
-    margin:auto;
-    border: 3px solid red;
-}
-#inner{
-    padding-top: 80px;
-    padding-left: 90px;
-}
+
